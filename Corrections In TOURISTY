@@ -1,0 +1,8 @@
+1.AdminContacts.jsp ---> "Traveller's city" is showing 'Traveller' instead of City of that traveller. 
+2.AdminContacts.jsp ---> Arrange  names of "Traveller/Guides/Hotels" According to their city name Alphabatically .
+3.Contacus.jsp---------> Write required="true" in all the input types.
+4.AdminCUinbox.jsp-----> Remove time Column from the inbox table.
+5.AdminCUinbox.jsp-----> After Admin login This page is appear.we can show any other page too.
+6.Use java Script to show that new message is in the inbox.
+7.Reviews
+8.e-temple As per state Traveling locations. in Enquire.jsp(both)Add jsp for every state 
